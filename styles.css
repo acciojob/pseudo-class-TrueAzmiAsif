@@ -4,6 +4,6 @@ p::before{
 	color:rgb(255,0,0);
 }
 p::after{
-	content:"After Element";
+	content:" After Element";
 	color:rgb(255,0,0);
 }
